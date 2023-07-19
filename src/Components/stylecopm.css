@@ -1,0 +1,25 @@
+
+
+/* styles.css */
+
+.input-field {
+    margin: 8px 0;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 250px;
+    border: 2px solid #FF69B4;
+    border-radius: 6px;
+
+    color: #555;
+    padding: 10px;
+    width: 200px;
+  }
+  
+  .inputBox{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    justify-content: space-evenly;
+    row-gap: 10px;
+  
+  }
